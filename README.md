@@ -73,6 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
+
 Screen Shot of Deployed Application Below:
 
 <img width="1105" alt="React Portfolio Screenshot" src="https://user-images.githubusercontent.com/73037339/172076046-c28f2ad8-eb4d-413f-9346-a51e0a43907d.png">
