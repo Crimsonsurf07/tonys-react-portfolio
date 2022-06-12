@@ -23,7 +23,7 @@ export default function About() {
         id="Selfie"
         height={500}
         width={500}
-        style={{ borderRadius: 2700 }}
+        style={{ borderRadius: 270 }}
         />
       </div>
     </div>

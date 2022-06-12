@@ -14,6 +14,7 @@ const Projects = () => {
           src={RunBuddy}
           alt="Web Page displaying fitness trainers, individual trainer bios, a sign up form, contact info, and a location map."
           title="run-buddy"
+          target="_blank"
           id="run-buddy"
           className="img-thumbnail mx-1"
           height={500}
@@ -32,6 +33,7 @@ const Projects = () => {
           src={WorkDayScheduler}
           alt="Front End Application allowing users to schedule their workday hour by hour. Users can add and delete or edit time slots as needed."
           title="work-day-sheduler"
+          target="_blank"
           id="work-day-scheduler"
           className="img-thumbnail mx-1"
           height={500}
@@ -50,6 +52,7 @@ const Projects = () => {
           src={WeatherDashboard}
           alt="Front End Application allowing users to search for live weather conditions per location information submitted by the user."
           title="weather-dashboard"
+          target="_blank"
           id="weather-dashboard"
           className="img-thumbnail mx-1"
           height={500}
@@ -68,6 +71,7 @@ const Projects = () => {
           src={DinnerAroundTheWorld}
           alt="Front End Application utilizing Third Party API's that allows users to search for drinks and food based on a series of options displayed in 2 seperate menus."
           title="dinner-around-the-world"
+          target="_blank"
           id="dinner-around-the-world"
           className="img-thumbnail mx-1"
           height={500}
@@ -87,6 +91,7 @@ const Projects = () => {
           alt="Full Stack Application allowing users to create, save, update, and delete notes."
           href="https://crimsonsurf07.github.io/Express-Note-Taker/"
           title="express-note-taker"
+          target="_blank"
           id="express-note-taker"
           className="img-thumbnail lx-1"
           height={500}
@@ -105,6 +110,7 @@ const Projects = () => {
           src={Project2}
           alt="Full Stack Application allowing users to sign up, add, edit, delete, and save memories from travel destinations. Users can also upload and store photos."
           title="project2"
+          target="_blank"
           id="project2"
           className="img-thumbnail lx-1"
           height={500}
@@ -115,6 +121,19 @@ const Projects = () => {
         </a>
         <br />
         <a href="https://crimsonsurf07.github.io/project2/">
+          Link To Deployed Application
+        </a>
+      </div>
+      <div className="g-col3">
+        <p style={{ color: "ghostwhite"}}> 
+          Project 3 - Agora 
+        </p>
+     
+        <a href="https://github.com/Crimsonsurf07/Project3-Agora">
+          Link To Deployed Github Repo
+        </a>
+        <br />
+        <a href="https://tranquil-depths-44928.herokuapp.com/">
           Link To Deployed Application
         </a>
       </div>
